@@ -21,3 +21,7 @@ arm6dof/config_default.json
 
 # Claude Code local context — never commit
 CLAUDE.md
+AGENTS.md
+
+# Test scratch space (TMPDIR for tests)
+.test-tmp/
